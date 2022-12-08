@@ -1,0 +1,13 @@
+/datas/
+/data/
+/nemo_experiments/
+/outputs/
+/temp/
+*.wav
+*.mp3
+*.json
+/dl132.y2mate.com/
+/inputs/
+*.ipynb
+/data_augmentation/datas/
+/notebooks/

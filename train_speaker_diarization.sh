@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python nemo/train_speaker_diarization.py
