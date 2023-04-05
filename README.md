@@ -1,4 +1,4 @@
-# vnd-nlp-speaker-diarization
+# speaker-diarization
 
 
 ## Getting started
